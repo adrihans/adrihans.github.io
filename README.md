@@ -3,7 +3,7 @@
 
 
 ### TO DO: 
-- Add CV in docs part !!! Make sure it dowloads 
+
 - Change text 
 - Add images in features (for the project)
 - Links for whole li 
@@ -13,6 +13,7 @@
 - Check image on mobile (About me)
 - Responsive links (fetaures part)
 - Add Imdb?? // Include Imdb
+- Add CV in docs part !!! Make sure it dowloads 
 
 
 #### References
